@@ -84,7 +84,7 @@
 [url "git@github.com:opreaadrian/"]
   insteadOf = "git://github.com/opreaadrian/"
 [credential]
-	helper = osxkeychain
+	helper = store
 [push]
 	default = current
 [diff]
